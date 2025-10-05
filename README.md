@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 - 📝 I regularly write articles on [Medium](https://medium.com/@Tejaskalal)
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
-- 📫 How to reach me **tejaskalal@gmail.com**
+- 📫 How to reach me **tejaskalal2002@gmail.com**
 - ⚡ Fun fact: I love to build things that help people! 😄
 
 ---
