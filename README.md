@@ -1,16 +1,52 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Tejas Kalal</h1>
+<h3 align="center">A Passionate MERN Stack Developer from India 🇮🇳</h3>
 
-<!--
-**tejaskalal/tejaskalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🔭 I’m currently working on **JeevDan - A MERN Stack Donation Platform**
+- 🌱 I’m currently learning **Next.js, TypeScript, and AWS**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 📝 I regularly write articles on [Medium](https://medium.com/@yourusername)
+- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 📫 How to reach me **tejaskalal@gmail.com**
+- ⚡ Fun fact: I love to build things that help people! 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/tejaskalal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+<a href="https://twitter.com/tejaskalal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/></a>
+<a href="https://instagram.com/tejaskalal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
+<a href="mailto:tejaskalal@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python,c,cpp" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tejaskalal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaskalal&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaskalal&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🧠 Fun Projects:
+- [🌿 Smart Agro Project](https://github.com/tejaskalal/SmartAgro)
+- [🏠 Wanderlust (Room Booking)](https://github.com/tejaskalal/Wanderlust)
+- [🩸 JeevDan (Donation Platform)](https://github.com/tejaskalal/JeevDan)
+- [💹 Zerodha Clone](https://github.com/tejaskalal/Zerodha-Clone)
+
+---
+
+⭐ **Feel free to explore my repositories and star if you like them!**
