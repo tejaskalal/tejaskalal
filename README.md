@@ -42,7 +42,7 @@
 ### 🧠 Fun Projects:
 - 🌿 Smart Agro Project
 - [🏠 Wanderlust (Room Booking)](https://github.com/tejaskalal/Wanderlust)
-- [🩸 JeevDan (Donation Platform)](https://github.com/tejaskalal/JeevDan)
+- [🩸 JeevDan (Donation Platform)](https://github.com/tejaskalal/JeevDaan)
 - [💹 Zerodha Clone](https://github.com/tejaskalal/Zerodha-Clone)
 
 ---
