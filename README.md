@@ -6,9 +6,8 @@
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on **JeevDan - A MERN Stack Donation Platform**
-- 🌱 I’m currently learning **Next.js, TypeScript, and AWS**
+- 🌱 I’m currently learning **Next.js and AWS**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
-- 📝 I regularly write articles on [Medium](https://medium.com/@Tejaskalal)
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 How to reach me **tejaskalal2002@gmail.com**
 - ⚡ Fun fact: I love to build things that help people! 😄
