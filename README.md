@@ -5,8 +5,8 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on **JeevDan - A MERN Stack Donation Platform**
-- 🌱 I’m currently learning **Next.js and AWS**
+- 🔭 I’m currently working on **LifeAI - AI powered health tracker and advisior**
+- 🌱 I’m currently learning **DevOps**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 How to reach me **tejaskalal2002@gmail.com**
