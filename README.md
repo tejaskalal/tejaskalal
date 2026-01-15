@@ -39,12 +39,4 @@
 
 ---
 
-### 🧠 Fun Projects:
-- 🌿 Smart Agro Project
-- [🏠 Wanderlust (Room Booking)](https://github.com/tejaskalal/Wanderlust)
-- [🩸 JeevDan (Donation Platform)](https://github.com/tejaskalal/JeevDaan)
-
-
----
-
 ⭐ **Feel free to explore my repositories and star if you like them!**
